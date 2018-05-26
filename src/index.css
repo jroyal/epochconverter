@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.timeConverter {
+  margin-top: 5rem;
+}
+
+.currentTime {
+  text-align: center;
+  border: 0px;
+  display: block;
+  margin: auto;
+}
+
+.currentTime:hover {
+  border: 0px;
+  outline-width: 0;
+}
+
+.currentTime:focus {
+  border: 0px;
+  outline-width: 0;
+}
+
+.timeLabel {
+  text-align: center;
+}
+
+.time {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.timeblock {
+  padding-top: 3rem;
+}
